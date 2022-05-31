@@ -1,4 +1,4 @@
-# arduino-speaker-activate
+# Arduino PC Speaker activation
 This code for arduino ide, to activate the speaker(pc speaker, bios).
 
 I activate on node mcu v3, 99% work on other arduino plate!
